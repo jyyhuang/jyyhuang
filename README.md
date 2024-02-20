@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Computer Science student, loading
+Computer Science student and always looking to learn
 </div>
