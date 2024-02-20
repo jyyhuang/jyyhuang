@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Computer Science student and eager to learn new things
+Computer Science student, loading
 </div>
