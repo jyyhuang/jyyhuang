@@ -1,4 +1,4 @@
-<h2 align='center'> Hi! I'm Joey 👋</h1>
+<h2 align='center'> Hi! I'm Joey 👋
 
 <!--
 **JyyHuang/JyyHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Computer Science student and always looking to learn
+<h4>Computer Science student and always looking to learn
 
