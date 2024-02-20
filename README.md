@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning nvim and lua :)
 - 💞️ Personal interests: Music, Fashion, Games, Anime, Manga!
 
+![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JyyHuang&theme=dark&show_icons=true)
+
