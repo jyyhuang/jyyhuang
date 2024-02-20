@@ -4,7 +4,6 @@
 **JyyHuang/JyyHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,4 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h4 align='center'>Computer Science student interested in software and programming
+
+- 🔭 I’m currently working on [GymPal](https://github.com/JyyHuang/GymPal) so I can actually track my workouts :/
 
