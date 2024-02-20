@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a computer science student at Temple University
+Computer Science student and eager to learn new things
 </div>
