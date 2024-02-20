@@ -1,3 +1,5 @@
+<div align='center'>
+
 ### Hi! I'm Joey 👋
 
 <!--
@@ -15,3 +17,4 @@ Here are some ideas to get you started:
 -->
 
 I'm a computer science student at Temple University
+</div>
