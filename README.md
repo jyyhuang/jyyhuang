@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>Computer Science student and always looking to learn
+<h4 align='center'>Computer Science student
 
