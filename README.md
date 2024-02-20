@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 💞️ Personal interests: Music, Fashion, Games, Anime, Manga!
 
 ![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JyyHuang&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyyHuang)](https://github.com/anuraghazra/github-readme-stats)
 
