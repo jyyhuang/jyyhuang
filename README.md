@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h4 align='center'>Computer Science student interested in software and programming</h4>
 
 
-- 🔭 I’m currently working on [GymPal](https://github.com/JyyHuang/GymPal) so I can actually track my workouts :/
+- 🔭 I’m currently working N/A
 - 🌱 I’m currently learning nvim and lua :)
 - 💞️ Personal interests: Music, Fashion, Games, Anime, Manga!
 
