@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working N/A
-- 🌱 I’m currently learning nvim and lua :)
+- 🌱 I’m currently learning N/A
 - 💞️ Personal interests: Music, Fashion, Games, Anime, Manga!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
