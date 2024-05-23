@@ -12,11 +12,6 @@ Here are some ideas to get you started:
 
 <h4 align='center'>Computer Science student interested in software and programming</h4>
 
-
-- 🔭 I’m currently working N/A
-- 🌱 I’m currently learning N/A
-- 💞️ Personal interests: Music, Fashion, Games, Anime, Manga!
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JyyHuang&theme=dark&show_icons=true" />
 </a>
