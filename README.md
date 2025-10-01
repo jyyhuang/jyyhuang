@@ -1,4 +1,4 @@
-<h2> hi, i'm joey huang!
+<h2> <p align="center">hi, i'm joey huang!</p>
 
 ```javascript
 const joey = {
