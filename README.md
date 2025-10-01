@@ -1,4 +1,4 @@
-<h2> hi, i'm joey huang! </h2>
+<h2> hi, i'm joey huang!
 
 ```javascript
 const joey = {
@@ -6,6 +6,7 @@ const joey = {
 }
 ```
 [![Linkedin: joeyhuang](https://img.shields.io/badge/-joeyhuang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeyhuang3/)](https://www.linkedin.com/in/joeyhuang3/)
+</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jyyhuang&theme=dark&show_icons=true" />
