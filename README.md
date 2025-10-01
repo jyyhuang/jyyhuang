@@ -1,5 +1,5 @@
 <h2> hi, i'm joey huang!
-<br/>
+  
 ```javascript
 const joey = {
   likes: ["coding"],
