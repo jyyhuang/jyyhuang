@@ -1,11 +1,11 @@
-<p> hi, i'm joey huang!
+<h2> hi, i'm joey huang!
 
 ```javascript
 const joey = {
   likes: ["coding"],
 }
 ```
-</p>
+</h2>
 
 [![Linkedin: joeyhuang](https://img.shields.io/badge/-joeyhuang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeyhuang3/)](https://www.linkedin.com/in/joeyhuang3/)
 
