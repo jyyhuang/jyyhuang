@@ -2,7 +2,8 @@
 
 ```javascript
 const joey = {
-  likes: ["coding"],
+  likes: ["code", "swag", "anime"],
+  status: "learning, always.",
 }
 ```
 </h2>
