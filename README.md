@@ -1,20 +1,21 @@
-<h2> <p align="center">hi, i'm joey huang!</p>
-
-```javascript
-const joey = {
-  likes: ["code", "anime", "manga", "fashion", "cats"],
-  status: "learning, always.",
-}
+```zsh
+joey@huang: ~/my_readme $ fastfetch
 ```
-</h2>
+<img src=>
 
-[![Linkedin: joeyhuang](https://img.shields.io/badge/-joeyhuang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeyhuang3/)](https://www.linkedin.com/in/joeyhuang3/)
-[![GitHub jyyhuang](https://img.shields.io/github/followers/jyyhuang?label=follow&style=social)](https://github.com/jyyhuang)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jyyhuang&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyhuang&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+```csharp
+---------------------------------------------------------------------
+username: jyyhuang
+whoamI: cs @ temple university
+website: jyyhuang.com
+os: arch linux + hyprland
+languages: python, javascript, c, java
+learning: ml/ai, db design, scaling, lua
+locations: united states
+hobbies: programming, gaming, anime/manga, music, fashion, basketball
+favorite.song: eardrummer by che
+favorite.game: league of legends
+favorite.anime: one piece
+---------------------------------------------------------------------
+```
 
