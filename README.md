@@ -1,7 +1,12 @@
+<div align="center">
+    <p>
+        <img src="https://count.getloli.com/@jyyhuang?name=jyyhuang&theme=booru-smtg&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="jyyhuang">
+    </p>
+</div>
+
 ```zsh
 joey@huang: ~/my_readme $ fastfetch
 ```
-<img src=>
 
 ```csharp
 ---------------------------------------------------------------------
