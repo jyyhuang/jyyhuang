@@ -5,10 +5,10 @@
 </div>
 
 ```zsh
-joey@huang: ~/my_readme $ fastfetch
+joey@huang: ~/readme $ fastfetch
 ```
 
-<img src="assets/cat_L.png" align="left" alt="death note L" width="35%">
+<img src="assets/cat_L.png" align="left" alt="death note L" width="30%">
 
 ```csharp
 ------------------------------------------------------------
