@@ -44,7 +44,10 @@ favorite.anime: one piece
 [![Gmail](https://img.shields.io/badge/joeyh6547-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeyh6547@gmail.com)
 </div>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jyyhuang&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyyhuang&theme=tokyonight&layout=compact&langs_count=8)
+<div align="center">
+    
+![My GitHub stats](https://github-readme-stats-opal-psi-50.vercel.app/api?username=jyyhuang&show_icons=true&theme=tokyonight&card_width=400&line_height=24)
+![Top Languages](https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=jyyhuang&theme=tokyonight&layout=compact&langs_count=8)
+</div>
 
 <h3 align="center">Thanks for Reading <3</h3>
