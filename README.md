@@ -41,7 +41,7 @@ favorite.anime: one piece
 [![Website](https://img.shields.io/badge/website-24283b?style=for-the-badge)](https://jyyhuang.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-24283b?style=for-the-badge&logo)](https://www.linkedin.com/in/joeyhuang3/)
 [![Github](https://img.shields.io/badge/github-24283b?style=for-the-badge&logo=github)](https://github.com/jyyhuang)
-[![Gmail](https://img.shields.io/badge/joeyh6547-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeyh6547@gmail.com)
+[![Gmail](https://img.shields.io/badge/joeyhuang.dev-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeyhuang.dev@gmail.com)
 </div>
 
 <div align="center">
