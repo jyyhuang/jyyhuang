@@ -15,7 +15,7 @@ joey@huang: ~/readme $ fastfetch
 username: jyyhuang
 whoami: cs @ temple university
 pronouns: he/him
-os: arch linux + hyprland
+os: arch linux
 languages: python, javascript, c, java
 learning: ml/ai, db design, scaling, lua
 locations: united states
