@@ -17,10 +17,11 @@ whoami: cs @ temple university
 pronouns: he/him
 os: arch linux
 languages: python, javascript, c, java
-learning: ml/ai, db design, scaling, lua
+learning: ml/ai, db design, technology at scale, go
+reading: designing data-intensive applications
 locations: united states
 hobbies: programming, gaming, anime/manga, music, fashion
-favorite.song: eardrummer by che
+song: eardrummer by che
 favorite.game: league of legends
 favorite.anime: one piece
 ------------------------------------------------------------
