@@ -16,8 +16,8 @@ username: jyyhuang
 whoami: cs @ temple university
 pronouns: he/him
 os: arch linux
-languages: python, javascript, c, java
-learning: ml/ai, db design
+languages: python, javascript, c, c++, java
+learning: ml/ai, c++
 reading: tcp/ip illustrated
 locations: united states
 hobbies: programming, gaming, anime/manga, music, fashion
