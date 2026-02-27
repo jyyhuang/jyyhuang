@@ -16,7 +16,7 @@ username: jyyhuang
 whoami: cs @ temple university
 pronouns: he/him
 os: arch linux
-languages: python, javascript, c, java
+languages: python, javascript, c, c++, java
 learning: ml/ai, rust
 reading: tcp/ip illustrated
 locations: united states
@@ -31,7 +31,7 @@ favorite.anime: one piece
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,nodejs,react,c,java,arch,neovim,git,gcp,aws,docker,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,nodejs,react,c,cpp,java,arch,neovim,git,gcp,aws,docker,postgres,mongodb" />
   </a>
 </p>
 
