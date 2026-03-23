@@ -18,7 +18,7 @@ pronouns: he/him
 os: arch linux
 languages: python, javascript, c, java
 learning: ml/ai, rust
-reading: tcp/ip illustrated
+reading: nothing atm
 locations: united states
 hobbies: programming, gaming, anime/manga, music, fashion
 song: kuuchuu buranko by plastic tree
