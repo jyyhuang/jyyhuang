@@ -13,17 +13,17 @@ joey@huang: ~/readme $ fastfetch
 ```csharp
 ------------------------------------------------------------
 username: jyyhuang
-whoami: cs @ temple university
+whoami: programmer, code enjoyer :3
 pronouns: he/him
 os: arch linux
-languages: python, javascript, c, java
-learning: ml/ai, rust
+languages: python, javascript, rust, c, java
+learning: backend
 reading: nothing atm
-locations: united states
+location: philadelphia, pennsylvania, united states
 hobbies: programming, gaming, anime/manga, music, fashion
 song: kuuchuu buranko by plastic tree
-favorite.game: league of legends
-favorite.anime: one piece
+favorite_game: league of legends
+favorite_anime: one piece
 ------------------------------------------------------------
 ```
 
@@ -31,7 +31,7 @@ favorite.anime: one piece
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,pytorch,ts,js,nodejs,react,c,java,arch,neovim,git,gcp,aws,docker,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,nodejs,react,rust,c,java,arch,neovim,git,gcp,aws,docker,postgres,mongodb" />
   </a>
 </p>
 
