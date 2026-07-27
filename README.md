@@ -16,7 +16,7 @@ username: jyyhuang
 whoami: programmer, code enjoyer :3
 pronouns: he/him
 os: arch linux
-languages: python, javascript, rust, c, java
+languages: python, typescript, rust, c, java
 learning: backend
 reading: nothing atm
 location: philadelphia, pennsylvania, united states
