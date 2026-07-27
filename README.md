@@ -31,19 +31,9 @@ favorite_anime: one piece
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,nodejs,react,rust,c,java,arch,neovim,git,gcp,aws,docker,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,rust,c,java,arch,neovim,git,gcp,aws,docker,postgres,mongodb" />
   </a>
 </p>
-
-
-<div align="center">
-<h3 align="center">Connect with me</h3>
-
-[![Website](https://img.shields.io/badge/website-24283b?style=for-the-badge)](https://jyyhuang.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-24283b?style=for-the-badge&logo)](https://www.linkedin.com/in/joeyhuang3/)
-[![Github](https://img.shields.io/badge/github-24283b?style=for-the-badge&logo=github)](https://github.com/jyyhuang)
-[![Gmail](https://img.shields.io/badge/joeyhuang.dev-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeyhuang.dev@gmail.com)
-</div>
 
 <div align="center">
     
