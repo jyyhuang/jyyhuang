@@ -13,17 +13,14 @@ joey@huang: ~/readme $ fastfetch
 ```csharp
 ------------------------------------------------------------
 username: jyyhuang
-whoami: programmer, code enjoyer :3
+whoami: programmer, code enjoyer
 pronouns: he/him
 os: arch linux
 languages: python, typescript, rust, c, java
-learning: backend
+learning: idiomatic rust
 reading: nothing atm
 location: philadelphia, pennsylvania, united states
-hobbies: programming, gaming, anime/manga, music, fashion
-song: kuuchuu buranko by plastic tree
-favorite_game: league of legends
-favorite_anime: one piece
+hobbies: programming, gaming, anime/manga, pokemon
 ------------------------------------------------------------
 ```
 
