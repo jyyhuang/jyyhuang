@@ -17,8 +17,8 @@ whoami: programmer, code enjoyer
 pronouns: he/him
 os: arch linux
 languages: python, typescript, rust, c, java
-learning: idiomatic rust
-reading: nothing atm
+learning: rust
+reading: zero to production in rust
 location: philadelphia, pennsylvania, united states
 hobbies: programming, gaming, anime/manga, pokemon
 ------------------------------------------------------------
